@@ -70,7 +70,3 @@ Digital payment platforms need a centralized dashboard to monitor transaction pe
 - Optimize the UPI payment experience to maintain customer satisfaction.
 - Continuously monitor payment failure trends to improve transaction success rates.
 
-## Files
-
-- `Paytm_Dashboard.pbix` — Power BI Dashboard
-- `Paytm_Transactions.csv` — Raw Dataset
